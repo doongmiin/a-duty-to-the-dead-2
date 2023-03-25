@@ -7,3 +7,4 @@
 
 # Exclude VS Code settings
 .vscode/
+*.code-workspace
