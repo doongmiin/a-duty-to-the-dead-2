@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"type":"file","file":"zzzzz/Attachments/Drakengard.jpg","id":"70f4f74dd6144e27","x":0,"y":0,"width":2400,"height":3200}
+		{"type":"file","file":"zzzzz/Attachments/Drakengard.jpg","id":"70f4f74dd6144e27","x":0,"y":0,"width":2400,"height":3200},
+		{"type":"file","file":"aaaaa/Sessions/2023-03-12.md","id":"cb78e9868a486d13","x":960,"y":1520,"width":260,"height":60,"color":"4"}
 	],
 	"edges":[]
 }
