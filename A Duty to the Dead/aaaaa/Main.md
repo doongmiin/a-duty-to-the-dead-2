@@ -1,7 +1,7 @@
 - Sunday, March 12
 	- <u>League of Iron</u> vs <u>Dead Owlbear</u>
 	- Slivkin
-	- Jonikcraro
+	- Jonik Craro
 	- All party members were in a cage in League of Iron.
 	- Someone smuggled in a vial of draconianite, someone used it to create a flame+boom and opened a hole in the cage.
 	- Some NPC opened a cache and handed out each player's inventory.
@@ -9,5 +9,18 @@
 	- By the time we reached the trenches, only the Playable Characters remain alive.
 	- Players fought bunch of zombies @ Nomansland
 		- Gained 170 experience points each
-		- 
 
+- Sunday, March 26
+	- A 9ft-tall automaton in some sort of uniform is killing humanoid creatures (8 confirmed kills)
+		- The automaton's weapon sucked a black goo off of the victim (dementor from HP), the body desintegrates, and it leaves a black barb-wired flower where the victim's body desintegrated.
+		- There are several such black barb-wired flowers in the automaton's wake.
+	- The automaton disappears through a tear in space into a dimension that looks to be filled with gears.
+	- [[Ashta Lamort|Ashta]] grabs one of those black barb-wired flowers. It is a [[Sovereign steel (fragment)]].
+	- We meet Fritz McConally III (undead, very defensive about it)
+		- Fritz has an emblem of the Dead Owlbears in his armor
+	- Fritz McConally III introduced us to Pipz and JJ
+		- The three of them also had a cart with two clockwork donkeys
+		- We were headed south on the cart
+	- We encountered two hill giants, Pipz and JJ distracted one of the hill giants
+		- We killed the other hill giant; inside her backpack there was a baby owlbear.
+		- Gained 200 experience points each
