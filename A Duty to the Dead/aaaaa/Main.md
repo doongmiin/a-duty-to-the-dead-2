@@ -24,3 +24,19 @@
 	- We encountered two hill giants, Pipz and JJ distracted one of the hill giants
 		- We killed the other hill giant; inside her backpack there was a baby owlbear.
 		- Gained 200 experience points each
+
+- Sunday, April 9
+	- We approach a town that has a red flag ()
+	- The town's sheriff: Clay Westwood (mechanical person)
+		- Two mechanical dogs: Preston and Floyd
+	- Ashta buys a new change of clothes (-6 sp), and lesser potions of healing (-12 gp) from the General Store.
+	- Ashta asks the blacksmith about the [[Sovereign steel (fragment)]], learnt that it's very rare and that the blacksmith would offer 70gp for it.
+	- {Encounter} : Animos runs into 3 NPCs who were about to break into the back of the General Store
+		- Eventually, there's only one NPC left, and he invokes his right for a duel
+		- Doc takes the challenge
+		- Doc versus NPC
+		- Doc wins
+		- +112 xp
+	- Nassor Canon recruits us for a job,
+		- Nassor tells us that Jonik Craro works for them (Dead Owlbears),
+	- Melin Rundel
